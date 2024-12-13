@@ -9,4 +9,4 @@ The results saved in mat file, contains 51x30 cell for each quality tested. Colu
 The code in MATLAB version 2020a. 
 
 # To run the code
-Run the "Main" and input your parameters for quality, number of runs, and distance. 
+Run the "Main" and then choose the algorithms (BA, BA2 or BAF). Input your parameters for quality (choose 0 to 1), number of runs, and distance. 
